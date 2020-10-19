@@ -6,4 +6,5 @@ int main()
 {
     cout << "Hello, World!" << endl;
     cout << "Hello, China!" << endl;
+    cout << "Hello, Li!" << endl;
     return 0;
