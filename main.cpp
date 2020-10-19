@@ -7,4 +7,3 @@ int main()
     cout << "Hello, World!" << endl;
     cout << "Hello, China!" << endl;
     return 0;
-}
